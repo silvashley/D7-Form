@@ -1,3 +1,6 @@
+<!-- recreate the counseal login page. make the photo on the right disappear when the screen is half size using the viewport & :md  style -->
+
+
 #form
 
 '''styled with tailwind, charset'''
